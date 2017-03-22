@@ -13,7 +13,7 @@ REM gradlew build --stacktrace
 
 REM java -jar build\libs\gs-rest-service-0.1.0.jar
 
-gradlew bootRun
+gradlew bootRun -DDEBUG=true
 
 
 pause

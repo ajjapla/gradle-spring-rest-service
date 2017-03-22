@@ -1,0 +1,8 @@
+
+1. install Java default folder location, if u install in other place following jar might not copy - %JAVA_HOME%\lib\tools.jar
+	location C:\Program Files (x86)\Java\jdk1.8.0_121
+
+2. spring rest creation with the help of below URL
+	https://spring.io/guides/gs/rest-service/
+	
+3. use gradle_build.bat to run the application
